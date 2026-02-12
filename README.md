@@ -19,7 +19,7 @@
 
 ## 🛠 技术栈
 
-- **Core**: Kotlin 1.9.10 + Jetpack Compose
+- **Core**: Kotlin 2.1.0 + Jetpack Compose
 - **Architecture**: [Komposable Architecture](https://github.com/toggl/komposable-architecture) (Redux)
 - **Networking**: GraphQL (OkHttp 驱动)
 - **Dependency Injection**: 简洁高效的手动 DI 容器 (`AppContainer`)
@@ -45,7 +45,7 @@ com.holden.pokemonquiz
 - **JDK**: 17
 - **Android Studio**: 最新稳定版
 - **Gradle**: 8.x
-- **Compose BOM**: 2023.10.01 (兼容 Compose Compiler 1.5.3)
+- **Compose BOM**: 2026.01.01
 
 ---
 
